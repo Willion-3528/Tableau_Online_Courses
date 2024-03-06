@@ -2,4 +2,4 @@
 
 elearning.tableau.com
 
-  - Tableau Fundamentals
+1. Tableau Fundamentals
