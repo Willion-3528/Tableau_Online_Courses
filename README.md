@@ -1,4 +1,4 @@
-# Tableau Learning Coursework
+# Tableau eLearning Coursework
 
 elearning.tableau.com
 
