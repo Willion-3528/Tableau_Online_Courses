@@ -1,6 +1,6 @@
 # Tableau eLearning Coursework
 
-Courses location: elearning.tableau.com
+Course location: elearning.tableau.com
 
 Technologies used: Tableau Desktop
 
